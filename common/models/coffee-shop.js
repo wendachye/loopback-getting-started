@@ -1,3 +1,6 @@
+// Copyright Owner 2014,2018. All Rights Reserved.
+// Node module: loopback-getting-started
+
 'use strict';
 
 module.exports = function(CoffeeShop) {
